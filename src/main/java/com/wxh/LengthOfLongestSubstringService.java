@@ -10,7 +10,7 @@ public class LengthOfLongestSubstringService {
 
     /**
      * 滑动窗口算法
-     * 
+     *
      * @param s
      * @return
      */
